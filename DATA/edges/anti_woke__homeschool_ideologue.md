@@ -1,6 +1,12 @@
-## anti_woke__homeschool_ideologue
-
-- **From:** anti_woke
-- **To:** homeschool_ideologue
-- **Strength:** medium
-- **Mechanism:** School curriculum panic is an explicit anti-woke organising issue; anti-woke content creators explicitly direct followers toward homeschooling as the solution
+---
+from: anti_woke
+to: homeschool_ideologue
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

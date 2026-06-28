@@ -1,6 +1,12 @@
-## doomer__accelerationist
-
-- **From:** doomer
-- **To:** accelerationist
-- **Strength:** medium
-- **Mechanism:** "It's all going to collapse anyway" framing is weaponised by accelerationist recruiters who offer agency — "be the catalyst" — to people in learned helplessness
+---
+from: doomer
+to: accelerationist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

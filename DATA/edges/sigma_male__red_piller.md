@@ -1,7 +1,12 @@
-## sigma_male__red_piller
-
-- **From:** sigma_male
-- **To:** red_piller
-- **Strength:** medium
-- **Mechanism:** Superiority-over-hierarchy framing eventually requires an explanation for why women don't respond; red pill provides that explanatory framework
-- **Bidirectional:** true
+---
+from: sigma_male
+to: red_piller
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: true
+---

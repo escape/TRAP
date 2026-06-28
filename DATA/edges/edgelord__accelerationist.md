@@ -1,6 +1,12 @@
-## edgelord__accelerationist
-
-- **From:** edgelord
-- **To:** accelerationist
-- **Strength:** medium
-- **Mechanism:** "Nothing is sacred" nihilism is the psychological precondition for accelerationist ideology; ironic violence aesthetic is the on-ramp
+---
+from: edgelord
+to: accelerationist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## campus_conservative__christian_nationalist
-
-- **From:** campus_conservative
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** TPUSA Faith networks bridge debate culture to Christian nationalist politics; same organisational infrastructure and speaker circuits
+---
+from: campus_conservative
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

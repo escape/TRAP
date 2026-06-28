@@ -1,6 +1,12 @@
-## red_piller__anti_woke
-
-- **From:** red_piller
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** Feminist-as-enemy framing generalises to broader anti-progressive grievance; shared influencer ecosystem bridges content
+---
+from: red_piller
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

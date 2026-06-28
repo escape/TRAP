@@ -1,6 +1,12 @@
-## pua__mra
-
-- **From:** pua
-- **To:** mra
-- **Strength:** medium
-- **Mechanism:** Women-as-adversary framing in PUA communities overlaps with MRA grievance about institutional bias; shared forums and recommendation overlap
+---
+from: pua
+to: mra
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

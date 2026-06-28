@@ -1,6 +1,12 @@
-## wellness_conspiracy__eco_fascist
-
-- **From:** wellness_conspiracy
-- **To:** eco_fascist
-- **Strength:** medium
-- **Mechanism:** New Age-to-alt-right pipeline is well documented; nature-as-medicine ideology maps onto eco-fascist aesthetic communities
+---
+from: wellness_conspiracy
+to: eco_fascist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

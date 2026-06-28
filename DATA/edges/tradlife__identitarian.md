@@ -1,6 +1,12 @@
-## tradlife__identitarian
-
-- **From:** tradlife
-- **To:** identitarian
-- **Strength:** medium
-- **Mechanism:** "Protecting tradition" framing acquires ethnic content through identitarian communities that frame demographic change as the cause of cultural loss
+---
+from: tradlife
+to: identitarian
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

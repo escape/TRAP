@@ -1,6 +1,12 @@
-## alpha_male__crypto_bro
-
-- **From:** alpha_male
-- **To:** crypto_bro
-- **Strength:** high
-- **Mechanism:** Andrew Tate ecosystem explicitly bridges alpha male content to crypto; "high-value man" framing aligns with crypto wealth aspiration and shared influencer networks
+---
+from: alpha_male
+to: crypto_bro
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

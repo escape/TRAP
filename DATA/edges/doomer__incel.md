@@ -1,6 +1,12 @@
-## doomer__incel
-
-- **From:** doomer
-- **To:** incel
-- **Strength:** high
-- **Mechanism:** Nihilism and hopelessness are the shared psychological substrate; doomer and incel communities overlap significantly and cross-recruit around blackpill ideology
+---
+from: doomer
+to: incel
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

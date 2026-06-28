@@ -1,6 +1,12 @@
-## homeschool_ideologue__christian_nationalist
-
-- **From:** homeschool_ideologue
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** Christian nationalist curriculum materials are the dominant vehicle for homeschool-to-ideology conversion; same church networks, same political organisations
+---
+from: homeschool_ideologue
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

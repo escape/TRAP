@@ -1,6 +1,12 @@
-## fused_gamer__anti_woke
-
-- **From:** fused_gamer
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** Anti-SJW gaming discourse generalises to broader anti-progressive grievance; same influencer tier and algorithmic recommendation path
+---
+from: fused_gamer
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## eco_fascist__identitarian
-
-- **From:** eco_fascist
-- **To:** identitarian
-- **Strength:** high
-- **Mechanism:** "Homeland" territorial framing and demographic threat ideology are shared; eco-fascism is identitarianism with environmental aesthetics
+---
+from: eco_fascist
+to: identitarian
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

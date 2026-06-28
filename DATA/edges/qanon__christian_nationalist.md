@@ -1,6 +1,12 @@
-## qanon__christian_nationalist
-
-- **From:** qanon
-- **To:** christian_nationalist
-- **Strength:** medium
-- **Mechanism:** QAnon's spiritual warfare cosmology maps directly onto Christian nationalist politics; significant congregation overlap and shared media infrastructure
+---
+from: qanon
+to: christian_nationalist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

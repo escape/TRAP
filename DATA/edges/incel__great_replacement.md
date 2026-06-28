@@ -1,6 +1,12 @@
-## incel__great_replacement
-
-- **From:** incel
-- **To:** great_replacement
-- **Strength:** high
-- **Mechanism:** Sexual grievance gets racialised through white supremacist recruitment actively targeting incel communities; "demographic replacement" narrative provides a political frame for personal grievance
+---
+from: incel
+to: great_replacement
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

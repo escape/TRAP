@@ -1,6 +1,12 @@
-## mra__red_piller
-
-- **From:** mra
-- **To:** red_piller
-- **Strength:** high
-- **Mechanism:** Legitimate grievance channels harden into totalising anti-feminist worldview when solutions don't materialise; red pill provides the explanatory ideology MRA implies
+---
+from: mra
+to: red_piller
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

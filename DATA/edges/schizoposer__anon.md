@@ -1,6 +1,12 @@
-## schizoposer__anon
-
-- **From:** schizoposer
-- **To:** anon
-- **Strength:** medium
-- **Mechanism:** Schizoposting culture originated on anonymous boards; escalation naturally channels back into chan infrastructure
+---
+from: schizoposer
+to: anon
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

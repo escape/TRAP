@@ -1,6 +1,12 @@
-## red_piller__mgtow
-
-- **From:** red_piller
-- **To:** mgtow
-- **Strength:** high
-- **Mechanism:** Shared grievance about women escalates from "the game is rigged" to "opt out entirely"; MGTOW forums are algorithmically recommended alongside red pill content
+---
+from: red_piller
+to: mgtow
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

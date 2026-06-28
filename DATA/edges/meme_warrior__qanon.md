@@ -1,6 +1,12 @@
-## meme_warrior__qanon
-
-- **From:** meme_warrior
-- **To:** qanon
-- **Strength:** medium
-- **Mechanism:** "Digital soldier" framing is shared language; meme warriors are told they're on the front line of an information war — QAnon makes that literal
+---
+from: meme_warrior
+to: qanon
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

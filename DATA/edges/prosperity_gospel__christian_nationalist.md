@@ -1,6 +1,12 @@
-## prosperity_gospel__christian_nationalist
-
-- **From:** prosperity_gospel
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** Kingdom dominionism theology provides the political superstructure for prosperity gospel's spiritual ambition; same megachurch and media networks
+---
+from: prosperity_gospel
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

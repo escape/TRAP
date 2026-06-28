@@ -1,6 +1,12 @@
-## cottagecore_convert__eco_fascist
-
-- **From:** cottagecore_convert
-- **To:** eco_fascist
-- **Strength:** medium
-- **Mechanism:** "Blood and soil" and "return to the land" are shared framing; eco-fascist communities recruit from homesteading aesthetics
+---
+from: cottagecore_convert
+to: eco_fascist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## edgelord__groyper
-
-- **From:** edgelord
-- **To:** groyper
-- **Strength:** high
-- **Mechanism:** Groyper movement explicitly uses irony and humour as recruitment; "based" and "redpilled" aesthetics bridge edgelord communities into coded white nationalism
+---
+from: edgelord
+to: groyper
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

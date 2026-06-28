@@ -1,6 +1,12 @@
-## grindset_disciple__crypto_bro
-
-- **From:** grindset_disciple
-- **To:** crypto_bro
-- **Strength:** high
-- **Mechanism:** "While they sleep, you trade" content format bridges directly; hustle culture influencers and crypto influencers share audiences and cross-promote aggressively
+---
+from: grindset_disciple
+to: crypto_bro
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

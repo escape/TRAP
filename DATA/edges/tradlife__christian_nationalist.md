@@ -1,6 +1,12 @@
-## tradlife__christian_nationalist
-
-- **From:** tradlife
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** Traditional roles ideology requires political enforcement; Christian nationalist politics provides the policy framework; same influencer ecosystem
+---
+from: tradlife
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

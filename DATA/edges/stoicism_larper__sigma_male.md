@@ -1,6 +1,12 @@
-## stoicism_larper__sigma_male
-
-- **From:** stoicism_larper
-- **To:** sigma_male
-- **Strength:** medium
-- **Mechanism:** Both communities valorise detachment and self-sufficiency; sigma identity provides the social hierarchy frame that stoicism lacks
+---
+from: stoicism_larper
+to: sigma_male
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

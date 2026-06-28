@@ -1,6 +1,12 @@
-## prepper__eco_fascist
-
-- **From:** prepper
-- **To:** eco_fascist
-- **Strength:** medium
-- **Mechanism:** Civilisational collapse framing and self-sufficient survival ideology are shared; eco-fascist communities recruit from prepper spaces with the argument that collapse is intentional and ethnically motivated
+---
+from: prepper
+to: eco_fascist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

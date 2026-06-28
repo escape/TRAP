@@ -1,6 +1,12 @@
-## gym_pipeline__red_piller
-
-- **From:** gym_pipeline
-- **To:** red_piller
-- **Strength:** high
-- **Mechanism:** Documented algorithmic pipeline; researchers found #gymtips and #redpill reach the same content within identical recommendation distances; fitness influencer and manosphere influencer tiers overlap substantially
+---
+from: gym_pipeline
+to: red_piller
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

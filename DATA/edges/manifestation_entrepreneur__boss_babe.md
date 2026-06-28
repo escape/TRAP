@@ -1,6 +1,12 @@
-## manifestation_entrepreneur__boss_babe
-
-- **From:** manifestation_entrepreneur
-- **To:** boss_babe
-- **Strength:** medium
-- **Mechanism:** MLM recruitment uses manifestation framing explicitly; "abundance mindset" and "sisterhood of entrepreneurs" are co-marketed
+---
+from: manifestation_entrepreneur
+to: boss_babe
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

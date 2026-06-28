@@ -1,6 +1,12 @@
-## fused_gamer__red_piller
-
-- **From:** fused_gamer
-- **To:** red_piller
-- **Strength:** medium
-- **Mechanism:** Masculinity anxiety in competitive gaming communities shares the same psychological infrastructure as manosphere content; recommendation algorithms connect them
+---
+from: fused_gamer
+to: red_piller
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

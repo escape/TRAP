@@ -1,6 +1,12 @@
-## manifestation_entrepreneur__prosperity_gospel
-
-- **From:** manifestation_entrepreneur
-- **To:** prosperity_gospel
-- **Strength:** high
-- **Mechanism:** Structurally identical ideologies — spiritual alignment unlocks material abundance; prosperity gospel is the Christian-coded version of the same mechanism
+---
+from: manifestation_entrepreneur
+to: prosperity_gospel
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

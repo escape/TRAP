@@ -1,6 +1,12 @@
-## manifestation_entrepreneur__wellness_conspiracy
-
-- **From:** manifestation_entrepreneur
-- **To:** wellness_conspiracy
-- **Strength:** high
-- **Mechanism:** Magical thinking about energy and abundance bridges directly to health misinformation; "they don't want you to know" framing is shared infrastructure
+---
+from: manifestation_entrepreneur
+to: wellness_conspiracy
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

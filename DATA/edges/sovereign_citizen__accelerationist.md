@@ -1,6 +1,12 @@
-## sovereign_citizen__accelerationist
-
-- **From:** sovereign_citizen
-- **To:** accelerationist
-- **Strength:** medium
-- **Mechanism:** When legal pseudoscience produces criminal charges rather than freedom, accelerationist "the system must be destroyed" framing becomes more appealing
+---
+from: sovereign_citizen
+to: accelerationist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

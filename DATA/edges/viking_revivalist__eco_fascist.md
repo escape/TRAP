@@ -1,6 +1,12 @@
-## viking_revivalist__eco_fascist
-
-- **From:** viking_revivalist
-- **To:** eco_fascist
-- **Strength:** medium
-- **Mechanism:** Nature spirituality and ancestral land framing are shared; eco-fascist aesthetic communities heavily use Norse imagery
+---
+from: viking_revivalist
+to: eco_fascist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,0 +1,4 @@
+# Copied into graph.json's "meta" by build.mjs.
+version: 0.2-demo
+schema: 2
+note: Minimal v2 slice — hexad kinds, harm axes, typed edges, provenance, exits.

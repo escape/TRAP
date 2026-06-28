@@ -1,6 +1,12 @@
-## meme_warrior__campus_conservative
-
-- **From:** meme_warrior
-- **To:** campus_conservative
-- **Strength:** medium
-- **Mechanism:** "Own the libs" content bridges online culture war to campus confrontation format; TPUSA actively recruits from meme warrior communities
+---
+from: meme_warrior
+to: campus_conservative
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

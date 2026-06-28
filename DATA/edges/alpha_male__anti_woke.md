@@ -1,6 +1,12 @@
-## alpha_male__anti_woke
-
-- **From:** alpha_male
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** Performance anxiety under dominance ideology generates grievance; "men are under attack" framing bridges to anti-woke political content
+---
+from: alpha_male
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

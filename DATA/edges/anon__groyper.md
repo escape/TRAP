@@ -1,6 +1,12 @@
-## anon__groyper
-
-- **From:** anon
-- **To:** groyper
-- **Strength:** medium
-- **Mechanism:** Groyper networks grew directly from chan culture; plausible deniability and ironic aesthetics make the bridge feel like a natural escalation
+---
+from: anon
+to: groyper
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

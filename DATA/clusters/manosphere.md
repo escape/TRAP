@@ -1,7 +1,7 @@
-## manosphere
-
-- **Name:** The manosphere
-- **Tagline:** Promises masculine self-improvement. Delivers chronic grievance and isolation from women.
-- **Color:** `#e24b4a`
-- **Risk theme:** Gender grievance → extremism
-
+---
+color: "#e24b4a"
+name: The manosphere
+risk_theme: Gender grievance → extremism
+tagline: Promises masculine self-improvement. Delivers chronic grievance and isolation
+  from women.
+---

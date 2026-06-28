@@ -1,6 +1,12 @@
-## sigma_male__grindset_disciple
-
-- **From:** sigma_male
-- **To:** grindset_disciple
-- **Strength:** high
-- **Mechanism:** Lone-genius narrative maps onto hustle culture's self-made myth; sigma content and grindset content share the same influencer tier and recommendation graph
+---
+from: sigma_male
+to: grindset_disciple
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

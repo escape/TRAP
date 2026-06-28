@@ -1,6 +1,12 @@
-## meme_warrior__groyper
-
-- **From:** meme_warrior
-- **To:** groyper
-- **Strength:** high
-- **Mechanism:** Groyper networks explicitly recruit from meme warfare communities; "digital soldier" framing and ironic nationalism share the same aesthetic infrastructure
+---
+from: meme_warrior
+to: groyper
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

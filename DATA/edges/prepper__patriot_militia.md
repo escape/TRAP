@@ -1,6 +1,12 @@
-## prepper__patriot_militia
-
-- **From:** prepper
-- **To:** patriot_militia
-- **Strength:** high
-- **Mechanism:** Militia organising explicitly targets prepper communities; prepper events and forums are active militia recruitment environments
+---
+from: prepper
+to: patriot_militia
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

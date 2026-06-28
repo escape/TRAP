@@ -1,6 +1,12 @@
-## qanon__sovereign_citizen
-
-- **From:** qanon
-- **To:** sovereign_citizen
-- **Strength:** medium
-- **Mechanism:** "The legal system is corrupt" is a shared premise; sovereign citizen legal theories circulate in QAnon communities as tools for resisting the "deep state"
+---
+from: qanon
+to: sovereign_citizen
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## cottagecore_convert__tradlife
-
-- **From:** cottagecore_convert
-- **To:** tradlife
-- **Strength:** high
-- **Mechanism:** Cottagecore-to-trad is a documented algorithmic pipeline; the aesthetic shift is gradual and the political content arrives late; same recommendation graph
+---
+from: cottagecore_convert
+to: tradlife
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

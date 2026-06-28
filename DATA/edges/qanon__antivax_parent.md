@@ -1,7 +1,12 @@
-## qanon__antivax_parent
-
-- **From:** qanon
-- **To:** antivax_parent
-- **Strength:** medium
-- **Mechanism:** "Save the children" framing bridges directly to vaccine-as-harm narrative; bidirectional recruitment is documented
-- **Bidirectional:** true
+---
+from: qanon
+to: antivax_parent
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: true
+---

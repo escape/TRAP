@@ -1,6 +1,12 @@
-## pua__incel
-
-- **From:** pua
-- **To:** incel
-- **Strength:** medium
-- **Mechanism:** Systematic rejection despite community "techniques" leads to blackpill conclusion; incel spaces actively recruit from PUA failure narratives
+---
+from: pua
+to: incel
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

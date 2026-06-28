@@ -1,6 +1,12 @@
-## wellness_conspiracy__qanon
-
-- **From:** wellness_conspiracy
-- **To:** qanon
-- **Strength:** high
-- **Mechanism:** QAnon explicitly incorporates wellness conspiracy content; "big pharma is the deep state" framing bridges wellness communities to QAnon's political cosmology
+---
+from: wellness_conspiracy
+to: qanon
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

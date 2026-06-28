@@ -1,6 +1,12 @@
-## patriot_militia__accelerationist
-
-- **From:** patriot_militia
-- **To:** accelerationist
-- **Strength:** medium
-- **Mechanism:** Accelerationist recruiters specifically target militia communities with the argument that "waiting" is insufficient and "action" is required
+---
+from: patriot_militia
+to: accelerationist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

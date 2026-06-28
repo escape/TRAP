@@ -1,6 +1,12 @@
-## mgtow__incel
-
-- **From:** mgtow
-- **To:** incel
-- **Strength:** high
-- **Mechanism:** "Going your own way" deepens into resentment; MGTOW and incel communities have substantial overlap and cross-recruit; blackpill content dominates both
+---
+from: mgtow
+to: incel
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,35 +1,47 @@
-## luxury_lifestyle
-
-- **Name:** The luxury lifestyle aspirant
-- **AKA:** Billionaire mindset · that lifestyle · lambo mentality · rich mindset
-- **Cluster:** hustle_wealth
-- **Tags:** financial, aesthetic, community, political
-- **Risk level:** 6
-- **Entry point:** true
-- **Terminal:** false
-- **Target age:** 16–30
-- **Target gender:** male_heavy
-- **Target socioeconomic:** precarious
-- **Target psychology:** status anxiety, materialism, desire for validation
-
-**Hook:**
-"Study the habits of the rich. Visualize success. Surround yourself with wealthy thinking."
-
-**Cost:**
-Rented props, borrowed settings, fake screenshots. You're watching people pretend to be rich while they monetize your attention. The aspiration becomes the product. The audience is disproportionately young men in economic precarity.
-
-**Tactics:**
-- parasocial replacement
-- manufactured urgency
-- fear monetization
-
-**Timeline:**
-- Entry: 0–2 months
-- Deepening: 2–8 months
-- Terminal: N/A
-
-**Intervention:**
-- Breaking: Reverse image search the "luxury" photos; notice the disconnect between image and reality
-- Alternative: Value-based living, minimalism, community building
-- Resources: Minimalist communities, financial independence (real) resources
-
+---
+name: The luxury lifestyle aspirant
+aka: Billionaire mindset · that lifestyle · lambo mentality · rich mindset
+kind: belief_state
+cluster: hustle_wealth
+volatility: static
+tags:
+  - financial
+  - aesthetic
+  - community
+  - political
+tactics:
+  - parasocial_replacement
+  - manufactured_urgency
+  - fear_monetization
+harm_to_self: 3
+harm_to_others: 3
+reversibility: 3
+entry_point: true
+terminal: false
+status: draft
+valid_from: 2026-06
+last_confirmed: 2026-06
+target:
+  age: 16–30
+  gender: male_heavy
+  psychology:
+    - status anxiety
+    - materialism
+    - desire for validation
+  socioeconomic: precarious
+timeline:
+  deepening: 2–8 months
+  entry: 0–2 months
+  terminal: N/A
+hook: Study the habits of the rich. Visualize success. Surround yourself with wealthy thinking.
+cost: >-
+  Rented props, borrowed settings, fake screenshots. You're watching people pretend to be rich while
+  they monetize your attention. The aspiration becomes the product. The audience is
+  disproportionately young men in economic precarity.
+intervention:
+  alternative: Value-based living, minimalism, community building
+  breaking: Reverse image search the "luxury" photos; notice the disconnect between image and reality
+  resources:
+    - Minimalist communities
+    - financial independence (real) resources
+---

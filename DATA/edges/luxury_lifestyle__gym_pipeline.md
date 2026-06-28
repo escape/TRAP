@@ -1,6 +1,12 @@
-## luxury_lifestyle__gym_pipeline
-
-- **From:** luxury_lifestyle
-- **To:** gym_pipeline
-- **Strength:** medium
-- **Mechanism:** "Self-improvement" aesthetic bridges wealth aspiration to body transformation; shared influencer tier
+---
+from: luxury_lifestyle
+to: gym_pipeline
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

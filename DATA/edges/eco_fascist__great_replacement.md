@@ -1,6 +1,12 @@
-## eco_fascist__great_replacement
-
-- **From:** eco_fascist
-- **To:** great_replacement
-- **Strength:** high
-- **Mechanism:** "Overpopulation" as coded replacement theory is the explicit ideological bridge; same demographic anxiety with environmental legitimation
+---
+from: eco_fascist
+to: great_replacement
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

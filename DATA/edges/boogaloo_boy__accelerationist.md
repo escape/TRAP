@@ -1,6 +1,12 @@
-## boogaloo_boy__accelerationist
-
-- **From:** boogaloo_boy
-- **To:** accelerationist
-- **Strength:** high
-- **Mechanism:** Boogaloo ideology is accelerationism with an ironic aesthetic wrapper; the transition is the wrapper coming off as the community becomes more operational
+---
+from: boogaloo_boy
+to: accelerationist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

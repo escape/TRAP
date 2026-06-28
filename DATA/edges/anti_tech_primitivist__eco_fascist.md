@@ -1,6 +1,12 @@
-## anti_tech_primitivist__eco_fascist
-
-- **From:** anti_tech_primitivist
-- **To:** eco_fascist
-- **Strength:** high
-- **Mechanism:** Anti-civilisation and return-to-nature ideology is shared infrastructure; eco-fascist communities actively recruit from primitivist spaces by adding racial framing
+---
+from: anti_tech_primitivist
+to: eco_fascist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

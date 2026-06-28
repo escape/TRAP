@@ -1,6 +1,12 @@
-## nofap_ascetic__sigma_male
-
-- **From:** nofap_ascetic
-- **To:** sigma_male
-- **Strength:** medium
-- **Mechanism:** Semen retention "superpowers" narrative feeds sigma superiority framing; shared aesthetic of elite masculine self-mastery
+---
+from: nofap_ascetic
+to: sigma_male
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

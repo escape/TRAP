@@ -1,10 +1,12 @@
-## boogaloo_boy__sovereign_citizen
-
-- **From:** boogaloo_boy
-- **To:** sovereign_citizen
-- **Strength:** medium
-- **Mechanism:** Anti-government legal pseudoscience and boogaloo ideology share the "the system is illegitimate" foundation; communities overlap in preparedness forums
-
 ---
-
-<!-- CLUSTER: political_machines outbound -->
+from: boogaloo_boy
+to: sovereign_citizen
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

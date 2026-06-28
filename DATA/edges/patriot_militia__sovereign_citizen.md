@@ -1,6 +1,12 @@
-## patriot_militia__sovereign_citizen
-
-- **From:** patriot_militia
-- **To:** sovereign_citizen
-- **Strength:** medium
-- **Mechanism:** Legal anti-government ideology and militia organising share an audience; sovereign citizen legal theories circulate in militia communities
+---
+from: patriot_militia
+to: sovereign_citizen
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## fused_gamer__meme_warrior
-
-- **From:** fused_gamer
-- **To:** meme_warrior
-- **Strength:** high
-- **Mechanism:** Gaming community identity fusion makes "culture war" framing feel like defending your home; GamerGate-era networks directly connect gaming to political meme warfare
+---
+from: fused_gamer
+to: meme_warrior
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

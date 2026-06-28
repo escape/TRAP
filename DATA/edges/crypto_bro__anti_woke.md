@@ -1,6 +1,12 @@
-## crypto_bro__anti_woke
-
-- **From:** crypto_bro
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** Anti-institutional framing generalises from financial institutions to cultural institutions; shared political grievance content
+---
+from: crypto_bro
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

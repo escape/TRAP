@@ -1,6 +1,12 @@
-## cottagecore_convert__identitarian
-
-- **From:** cottagecore_convert
-- **To:** identitarian
-- **Strength:** medium
-- **Mechanism:** "Homeland" and "heritage" framing bridges pastoral aesthetic to ethnic territorial ideology
+---
+from: cottagecore_convert
+to: identitarian
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

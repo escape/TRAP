@@ -1,6 +1,12 @@
-## grindset_disciple__anti_woke
-
-- **From:** grindset_disciple
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** "Your poverty is your fault" framing, when challenged, generates grievance content that blames progressive policy or DEI for economic stagnation
+---
+from: grindset_disciple
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## schizoposer__eco_fascist
-
-- **From:** schizoposer
-- **To:** eco_fascist
-- **Strength:** medium
-- **Mechanism:** Eco-fascist aesthetic communities use the same chaotic, maximally transgressive visual style as schizoposting to normalise extremist content
+---
+from: schizoposer
+to: eco_fascist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

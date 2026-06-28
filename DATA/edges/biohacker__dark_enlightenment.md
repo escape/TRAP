@@ -1,10 +1,12 @@
-## biohacker__dark_enlightenment
-
-- **From:** biohacker
-- **To:** dark_enlightenment
-- **Strength:** medium
-- **Mechanism:** Silicon Valley authoritarian networks are the shared milieu; transhumanist politics and NRx politics overlap in the same tech-industry intellectual circles
-
 ---
-
-<!-- CLUSTER: conspiracy_collapse outbound -->
+from: biohacker
+to: dark_enlightenment
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

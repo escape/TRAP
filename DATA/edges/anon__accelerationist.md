@@ -1,6 +1,12 @@
-## anon__accelerationist
-
-- **From:** anon
-- **To:** accelerationist
-- **Strength:** high
-- **Mechanism:** Chan culture is the primary recruitment and radicalisation environment for accelerationist ideology; anonymity removes the social friction that slows escalation
+---
+from: anon
+to: accelerationist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

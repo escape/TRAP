@@ -1,6 +1,12 @@
-## anti_woke__great_replacement
-
-- **From:** anti_woke
-- **To:** great_replacement
-- **Strength:** medium
-- **Mechanism:** "Who is behind the attack on our culture?" is the bridging question; Great Replacement provides the conspiratorial answer to anti-woke grievance
+---
+from: anti_woke
+to: great_replacement
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

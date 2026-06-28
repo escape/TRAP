@@ -1,6 +1,12 @@
-## boss_babe__tradlife
-
-- **From:** boss_babe
-- **To:** tradlife
-- **Strength:** medium
-- **Mechanism:** When the "business" fails, domesticity is algorithmically reframed as the better path; tradwife content is recommended to women exiting MLM communities
+---
+from: boss_babe
+to: tradlife
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

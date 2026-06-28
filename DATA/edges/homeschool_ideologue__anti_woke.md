@@ -1,6 +1,12 @@
-## homeschool_ideologue__anti_woke
-
-- **From:** homeschool_ideologue
-- **To:** anti_woke
-- **Strength:** high
-- **Mechanism:** School curriculum panic is the primary entry point for anti-woke organising; homeschool parent communities and anti-woke political content share audience and infrastructure
+---
+from: homeschool_ideologue
+to: anti_woke
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

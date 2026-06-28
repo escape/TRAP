@@ -1,6 +1,12 @@
-## pua__red_piller
-
-- **From:** pua
-- **To:** red_piller
-- **Strength:** high
-- **Mechanism:** Technique failure produces demand for a totalising worldview that explains why the system doesn't work; red pill provides the ideology that PUA assumed but never stated
+---
+from: pua
+to: red_piller
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

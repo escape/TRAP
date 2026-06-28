@@ -1,6 +1,12 @@
-## bronze_age_aesthete__dark_enlightenment
-
-- **From:** bronze_age_aesthete
-- **To:** dark_enlightenment
-- **Strength:** high
-- **Mechanism:** Both communities share the Silicon Valley–adjacent intellectual far-right milieu; NRx and BAP readerships overlap substantially and cross-reference each other
+---
+from: bronze_age_aesthete
+to: dark_enlightenment
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

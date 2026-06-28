@@ -1,6 +1,12 @@
-## looksmaxxer__incel
-
-- **From:** looksmaxxer
-- **To:** incel
-- **Strength:** high
-- **Mechanism:** Looksmaxxing ideology — that attraction is determined by fixed biological features — is the gateway to blackpill; PSL communities and incel communities share the same platform infrastructure
+---
+from: looksmaxxer
+to: incel
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

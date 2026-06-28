@@ -1,4 +1,5 @@
-## parasocial_replacement
-
-- **Name:** Parasocial replacement
-- **Description:** Substitutes algorithmically mediated relationship with an influencer or anonymous figure for real community.
+---
+description: Substitutes algorithmically mediated relationship with an influencer
+  or anonymous figure for real community.
+label: Parasocial replacement
+---

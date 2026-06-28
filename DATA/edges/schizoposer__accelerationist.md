@@ -1,6 +1,12 @@
-## schizoposer__accelerationist
-
-- **From:** schizoposer
-- **To:** accelerationist
-- **Strength:** high
-- **Mechanism:** Accelerationist recruiters specifically target schizoposting communities for users who show fascination with violence and chaos; Terrorgram aesthetic co-opts this content style directly
+---
+from: schizoposer
+to: accelerationist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## groyper__christian_nationalist
-
-- **From:** groyper
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** "Based Catholic" framing is Groyper's explicit identity; Christian nationalism and Groyper politics are co-developed in the same networks
+---
+from: groyper
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

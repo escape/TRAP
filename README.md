@@ -1,11 +1,26 @@
-# Trap
+# The Identity Trap
 
-> The Identity Trap: indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
->
+Indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
+
+![trap-graph.jpg](trap-graph.jpg)
+
+## Content warning
+
+This project describes manipulative, extremist, and violent ideologies for **educational purposes only**. The content includes:
+
+- Descriptions of radicalization mechanisms
+- References to white nationalism, antisemitism, and misogyny
+- Discussion of suicide, self-harm, and violence
+
+Reading about these identities does not mean endorsing them. If you recognize yourself in any profile, that's the point — and the intervention section is there for a reason.
+
+If you or someone you know is in crisis:
+
+(Emergency contacts following here)
 
 ## Early preview
 
-🟡 **v0.1 — first public release**
+**v0.1 — first public release**
 
 This is the first public draft of the project — a preliminary release for feedback, review, and source citation work. Expect active updates as the data and methodology are refined.
 
@@ -29,8 +44,8 @@ This project is in an initial detection phase. The current graph is sufficiently
 
 | Metric | Count | Status |
 |--------|-------|--------|
-| [Identities (nodes)](DATA/nodes/) | 52 | Initial coverage — expanding |
-| [Clusters](DATA/clusters/) | 7 | Provisional |
+| [Identities (nodes)](DATA/nodes/) | 57 | Initial coverage — expanding |
+| [Clusters](DATA/clusters/) | 9 | Provisional |
 | [Pipeline connections (edges)](DATA/edges/) | 125 | Initial mapping — review ongoing |
 | Terminal nodes | 6 | In place |
 | [Deception tactics (vocabulary)](DATA/tactics/) | 14 | Stable |
@@ -60,9 +75,7 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ### General Public
 
-![thehumanspace-logo-draft-v0.2.jpg](thehumanspace-logo-draft-v0.2.jpg)
-
-- Visit https://www.thehumanspace.org for the upcoming visualizations and wiki for this project.
+- Visit https://trap.thehumanspace.org for the upcoming visualizations and wiki for this project.
 
 - **Parents** — understanding what their kids are encountering online
 - **Educators** — teaching media literacy, critical thinking, or digital citizenship
@@ -119,20 +132,6 @@ Each **edge** (pipeline connection) contains:
 Each **tactic** (deception technique) contains a name and description of the manipulation mechanism, used across multiple identities.
 
 See [SCHEMA.md](SCHEMA.md) for full field definitions.
-
-## Content warning
-
-This project describes manipulative, extremist, and violent ideologies for **educational purposes only**. The content includes:
-
-- Descriptions of radicalization mechanisms
-- References to white nationalism, antisemitism, and misogyny
-- Discussion of suicide, self-harm, and violence
-
-Reading about these identities does not mean endorsing them. If you recognize yourself in any profile, that's the point — and the intervention section is there for a reason.
-
-If you or someone you know is in crisis:
-
-(Emergency contacts following here)
 
 ## Contributing
 

@@ -1,6 +1,12 @@
-## crypto_bro__qanon
-
-- **From:** crypto_bro
-- **To:** qanon
-- **Strength:** medium
-- **Mechanism:** Distrust of the financial system primes for broader institutional conspiracy; QAnon explicitly incorporates crypto as part of the "deep state financial reset" narrative
+---
+from: crypto_bro
+to: qanon
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

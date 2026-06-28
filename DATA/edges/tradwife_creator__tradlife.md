@@ -1,6 +1,12 @@
-## tradwife_creator__tradlife
-
-- **From:** tradwife_creator
-- **To:** tradlife
-- **Strength:** high
-- **Mechanism:** Tradwife content is the influencer-grade version of tradlife ideology; audiences move between them seamlessly
+---
+from: tradwife_creator
+to: tradlife
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## anti_tech_primitivist__accelerationist
-
-- **From:** anti_tech_primitivist
-- **To:** accelerationist
-- **Strength:** medium
-- **Mechanism:** Kaczynski veneration is explicit accelerationist recruitment material; anti-tech spaces are treated as hunting grounds by Terrorgram-adjacent recruiters
+---
+from: anti_tech_primitivist
+to: accelerationist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## eco_fascist__accelerationist
-
-- **From:** eco_fascist
-- **To:** accelerationist
-- **Strength:** high
-- **Mechanism:** Eco-fascist ideology explicitly calls for civilisational collapse; multiple mass shooters cited eco-fascist manifestos; Terrorgram networks recruit from eco-fascist aesthetic communities
+---
+from: eco_fascist
+to: accelerationist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

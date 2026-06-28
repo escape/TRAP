@@ -1,6 +1,12 @@
-## crypto_bro__free_speech_absolutist
-
-- **From:** crypto_bro
-- **To:** free_speech_absolutist
-- **Strength:** medium
-- **Mechanism:** Libertarian anti-regulation politics underlies crypto ideology; "debanking" and platform censorship narratives bridge to free speech absolutism
+---
+from: crypto_bro
+to: free_speech_absolutist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

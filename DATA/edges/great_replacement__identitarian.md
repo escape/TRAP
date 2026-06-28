@@ -1,6 +1,12 @@
-## great_replacement__identitarian
-
-- **From:** great_replacement
-- **To:** identitarian
-- **Strength:** high
-- **Mechanism:** Great Replacement theory is the ideological engine of identitarianism; believing the theory creates demand for the political movement that claims to address it
+---
+from: great_replacement
+to: identitarian
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

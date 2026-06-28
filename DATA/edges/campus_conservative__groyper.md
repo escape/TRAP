@@ -1,6 +1,12 @@
-## campus_conservative__groyper
-
-- **From:** campus_conservative
-- **To:** groyper
-- **Strength:** high
-- **Mechanism:** Groyper movement grew directly by targeting TPUSA events; "America First" framing offers a more extreme version of the same rebel identity
+---
+from: campus_conservative
+to: groyper
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## grindset_disciple__dropshipper
-
-- **From:** grindset_disciple
-- **To:** dropshipper
-- **Strength:** high
-- **Mechanism:** Hustle culture provides the aspiration; dropshipping/course selling provides the vehicle; same influencer tier and algorithmic recommendation path
+---
+from: grindset_disciple
+to: dropshipper
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

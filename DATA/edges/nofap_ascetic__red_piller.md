@@ -1,6 +1,12 @@
-## nofap_ascetic__red_piller
-
-- **From:** nofap_ascetic
-- **To:** red_piller
-- **Strength:** medium
-- **Mechanism:** Shame-and-relapse cycles reinforce the idea that women and pornography are the enemy; shared manosphere infrastructure
+---
+from: nofap_ascetic
+to: red_piller
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

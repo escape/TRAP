@@ -1,6 +1,12 @@
-## carnivore_devotee__antivax_parent
-
-- **From:** carnivore_devotee
-- **To:** antivax_parent
-- **Strength:** medium
-- **Mechanism:** Distrust of institutional medicine and corporate science is the shared foundation; carnivore communities overlap with anti-vax communities on the same wellness-to-conspiracy influencer tier
+---
+from: carnivore_devotee
+to: antivax_parent
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

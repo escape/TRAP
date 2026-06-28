@@ -1,6 +1,12 @@
-## tradwife_creator__christian_nationalist
-
-- **From:** tradwife_creator
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** Biblical womanhood framing is explicitly Christian nationalist; same church media infrastructure and political networks
+---
+from: tradwife_creator
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

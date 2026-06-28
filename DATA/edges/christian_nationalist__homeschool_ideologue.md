@@ -1,10 +1,12 @@
-## christian_nationalist__homeschool_ideologue
-
-- **From:** christian_nationalist
-- **To:** homeschool_ideologue
-- **Strength:** medium
-- **Mechanism:** Christian nationalist curriculum materials (Classical Conversations, Veritas Press) are the primary vehicles for homeschool-to-ideology conversion; same church and media networks
-
 ---
-
-<!-- CLUSTER: lifestyle_aesthetic outbound -->
+from: christian_nationalist
+to: homeschool_ideologue
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

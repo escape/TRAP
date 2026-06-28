@@ -1,6 +1,12 @@
-## great_replacement__accelerationist
-
-- **From:** great_replacement
-- **To:** accelerationist
-- **Strength:** high
-- **Mechanism:** Great Replacement manifestos have directly preceded multiple mass shootings; the theory provides the justification for accelerationist violence as "demographic self-defence"
+---
+from: great_replacement
+to: accelerationist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

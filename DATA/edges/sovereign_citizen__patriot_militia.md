@@ -1,6 +1,12 @@
-## sovereign_citizen__patriot_militia
-
-- **From:** sovereign_citizen
-- **To:** patriot_militia
-- **Strength:** high
-- **Mechanism:** Militia ideology and sovereign citizen legal theory share the "government is illegitimate" foundation; communities overlap and cross-recruit directly
+---
+from: sovereign_citizen
+to: patriot_militia
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

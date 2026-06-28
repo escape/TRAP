@@ -1,6 +1,12 @@
-## biohacker__grindset_disciple
-
-- **From:** biohacker
-- **To:** grindset_disciple
-- **Strength:** medium
-- **Mechanism:** Optimisation ideology applies equally to body and productivity; same affluent-tech-bro audience and influencer recommendations
+---
+from: biohacker
+to: grindset_disciple
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

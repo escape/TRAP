@@ -1,7 +1,7 @@
-## political_machines
-
-- **Name:** Political identity machines
-- **Tagline:** Promises purpose and patriotism. Delivers tribal loyalty tests and enemy-making as community building.
-- **Color:** `#b4a0e8`
-- **Risk theme:** Tribal loyalty → enemy-making
-
+---
+color: "#b4a0e8"
+name: Political identity machines
+risk_theme: Tribal loyalty → enemy-making
+tagline: Promises purpose and patriotism. Delivers tribal loyalty tests and enemy-making
+  as community building.
+---

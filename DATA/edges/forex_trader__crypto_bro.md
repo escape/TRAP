@@ -1,6 +1,12 @@
-## forex_trader__crypto_bro
-
-- **From:** forex_trader
-- **To:** crypto_bro
-- **Strength:** high
-- **Mechanism:** Identical audience psychology; crypto trading is positioned as the higher-upside version of forex; signal groups cross-recruit aggressively
+---
+from: forex_trader
+to: crypto_bro
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## luxury_lifestyle__anti_woke
-
-- **From:** luxury_lifestyle
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** Economic failure beneath the aspirational facade generates grievance content blaming DEI, immigrants, or progressive policy for blocked mobility
+---
+from: luxury_lifestyle
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

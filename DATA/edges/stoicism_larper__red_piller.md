@@ -1,6 +1,12 @@
-## stoicism_larper__red_piller
-
-- **From:** stoicism_larper
-- **To:** red_piller
-- **Strength:** high
-- **Mechanism:** Emotional suppression framing and masculine self-mastery ideology share infrastructure; red pill content is algorithmically co-recommended with stoicism content targeting young men
+---
+from: stoicism_larper
+to: red_piller
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

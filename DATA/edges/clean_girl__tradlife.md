@@ -1,6 +1,12 @@
-## clean_girl__tradlife
-
-- **From:** clean_girl
-- **To:** tradlife
-- **Strength:** medium
-- **Mechanism:** "Timeless" and "classic" framing maps onto tradlife's romanticisation of pre-modern roles; recommendation algorithms connect the aesthetics
+---
+from: clean_girl
+to: tradlife
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

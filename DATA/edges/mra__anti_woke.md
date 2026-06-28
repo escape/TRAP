@@ -1,10 +1,12 @@
-## mra__anti_woke
-
-- **From:** mra
-- **To:** anti_woke
-- **Strength:** medium
-- **Mechanism:** Anti-feminist politics generalise to broader anti-progressive grievance; shared political media ecosystem
-
 ---
-
-<!-- CLUSTER: hustle_wealth outbound -->
+from: mra
+to: anti_woke
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

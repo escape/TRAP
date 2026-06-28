@@ -1,6 +1,12 @@
-## gym_pipeline__grindset_disciple
-
-- **From:** gym_pipeline
-- **To:** grindset_disciple
-- **Strength:** medium
-- **Mechanism:** Discipline narrative bridges body transformation to financial transformation; same "hard work changes your life" influencer tier
+---
+from: gym_pipeline
+to: grindset_disciple
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

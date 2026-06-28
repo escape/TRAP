@@ -1,6 +1,12 @@
-## anti_woke__christian_nationalist
-
-- **From:** anti_woke
-- **To:** christian_nationalist
-- **Strength:** high
-- **Mechanism:** Anti-woke and Christian nationalist politics share media infrastructure, organisations, and political candidates; the "common sense" framing is explicitly adopted by the Christian nationalist movement
+---
+from: anti_woke
+to: christian_nationalist
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

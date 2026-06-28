@@ -1,40 +1,55 @@
-## boogaloo_boy
-
-- **Name:** The Boogaloo boy
-- **AKA:** Boog · big igloo · big luau · Hawaiian shirt militia · Liberty Boys
-- **Cluster:** online_culture
-- **Tags:** political, community, violence, conspiracy
-- **Risk level:** 9
-- **Entry point:** false
-- **Terminal:** false
-- **Target age:** 18–40
-- **Target gender:** male_heavy
-- **Target socioeconomic:** mixed
-- **Target psychology:** anti-government sentiment, desire for belonging, accelerationist thinking
-
-**Hook:**
-"The system is beyond reform. A reckoning is coming and you should be ready. It's patriotic to resist tyranny — and we make it fun."
-
-**Cost:**
-Ironic branding (Hawaiian shirts, igloo memes) disguises serious anti-government accelerationism. The movement deliberately blurs political lines, recruiting from libertarian, anti-government, and even some left-adjacent spaces. The 'fun' aesthetic makes preparation for civil conflict feel like a subculture rather than a militia.
-
-**Tactics:**
-- irony shield
-- manufactured urgency
-- us vs. them framing
-
-**Timeline:**
-- Entry: 0–6 months
-- Deepening: 6–18 months
-- Terminal: N/A
-
-**Intervention:**
-- Breaking: Separate the aesthetic from the operational content — the memes are a recruitment funnel, not just humor
-- Alternative: Legitimate civil liberties advocacy, constitutional law organizations, community civic engagement
-- Resources: ACLU civil liberties resources, Institute for Constitutional Advocacy, local civic engagement programs
-
-**Pipeline to:** accelerationist, patriot_militia, sovereign_citizen
-
 ---
-
-<!-- CLUSTER: political_machines -->
+name: The Boogaloo boy
+aka: Boog · big igloo · big luau · Hawaiian shirt militia · Liberty Boys
+kind: belief_state
+cluster: online_culture
+volatility: static
+tags:
+  - political
+  - community
+  - violence
+  - conspiracy
+tactics:
+  - irony_shield
+  - manufactured_urgency
+  - us_vs_them_framing
+harm_to_self: 5
+harm_to_others: 4
+reversibility: 3
+entry_point: false
+terminal: false
+status: draft
+valid_from: 2026-06
+last_confirmed: 2026-06
+target:
+  age: 18–40
+  gender: male_heavy
+  psychology:
+    - anti-government sentiment
+    - desire for belonging
+    - accelerationist thinking
+  socioeconomic: mixed
+timeline:
+  deepening: 6–18 months
+  entry: 0–6 months
+  terminal: N/A
+hook: >-
+  The system is beyond reform. A reckoning is coming and you should be ready. It's patriotic to
+  resist tyranny — and we make it fun.
+cost: >-
+  Ironic branding (Hawaiian shirts, igloo memes) disguises serious anti-government accelerationism.
+  The movement deliberately blurs political lines, recruiting from libertarian, anti-government, and
+  even some left-adjacent spaces. The 'fun' aesthetic makes preparation for civil conflict feel like
+  a subculture rather than a militia.
+intervention:
+  alternative: >-
+    Legitimate civil liberties advocacy, constitutional law organizations, community civic
+    engagement
+  breaking: >-
+    Separate the aesthetic from the operational content — the memes are a recruitment funnel, not
+    just humor
+  resources:
+    - ACLU civil liberties resources
+    - Institute for Constitutional Advocacy
+    - local civic engagement programs
+---

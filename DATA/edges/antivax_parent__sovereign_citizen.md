@@ -1,6 +1,12 @@
-## antivax_parent__sovereign_citizen
-
-- **From:** antivax_parent
-- **To:** sovereign_citizen
-- **Strength:** medium
-- **Mechanism:** Medical mandate resistance generates interest in legal opt-out strategies; sovereign citizen "medical freedom" pseudolegal claims are circulated in anti-vax communities
+---
+from: antivax_parent
+to: sovereign_citizen
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

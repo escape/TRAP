@@ -1,10 +1,12 @@
-## anti_tech_primitivist__prepper
-
-- **From:** anti_tech_primitivist
-- **To:** prepper
-- **Strength:** medium
-- **Mechanism:** "Systems are fragile and will collapse" framing is shared; anti-tech communities recommend prepper content as the practical expression of anti-civilisation ideology
-
 ---
-
-<!-- CLUSTER: fitness_body outbound -->
+from: anti_tech_primitivist
+to: prepper
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

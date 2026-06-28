@@ -1,6 +1,12 @@
-## nofap_ascetic__biohacker
-
-- **From:** nofap_ascetic
-- **To:** biohacker
-- **Strength:** medium
-- **Mechanism:** Body-as-machine-to-optimise framing bridges naturally; biohacker communities discuss semen retention as a protocol
+---
+from: nofap_ascetic
+to: biohacker
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

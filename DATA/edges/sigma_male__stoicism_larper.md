@@ -1,6 +1,12 @@
-## sigma_male__stoicism_larper
-
-- **From:** sigma_male
-- **To:** stoicism_larper
-- **Strength:** high
-- **Mechanism:** Emotional detachment aesthetic bridges directly; both communities valorise isolation as superiority and share Marcus Aurelius quote formats
+---
+from: sigma_male
+to: stoicism_larper
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## nofap_ascetic__stoicism_larper
-
-- **From:** nofap_ascetic
-- **To:** stoicism_larper
-- **Strength:** high
-- **Mechanism:** Discipline-over-desire framing maps directly onto stoic aesthetic; both communities share the "control your body, control your life" mechanism and considerable influencer overlap
+---
+from: nofap_ascetic
+to: stoicism_larper
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

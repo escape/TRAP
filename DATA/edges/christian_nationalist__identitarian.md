@@ -1,6 +1,12 @@
-## christian_nationalist__identitarian
-
-- **From:** christian_nationalist
-- **To:** identitarian
-- **Strength:** medium
-- **Mechanism:** "Christian civilisation" and "ethnopluralism" share the same demographic anxiety; identitarian movements explicitly recruit from Christian nationalist networks by adding racial framing to existing cultural preservation arguments
+---
+from: christian_nationalist
+to: identitarian
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

@@ -1,6 +1,12 @@
-## prepper__accelerationist
-
-- **From:** prepper
-- **To:** accelerationist
-- **Strength:** medium
-- **Mechanism:** Accelerationist recruiters target prepper communities with the argument that passive preparation is insufficient; "be the catalyst" is the explicit pitch to people already expecting collapse
+---
+from: prepper
+to: accelerationist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

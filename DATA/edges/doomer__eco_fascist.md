@@ -1,6 +1,12 @@
-## doomer__eco_fascist
-
-- **From:** doomer
-- **To:** eco_fascist
-- **Strength:** medium
-- **Mechanism:** Environmental doom framing is explicitly co-opted by eco-fascist aesthetic communities that offer ideological certainty to nihilists
+---
+from: doomer
+to: eco_fascist
+type: progression
+strength: medium
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

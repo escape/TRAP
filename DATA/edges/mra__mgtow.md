@@ -1,6 +1,12 @@
-## mra__mgtow
-
-- **From:** mra
-- **To:** mgtow
-- **Strength:** high
-- **Mechanism:** Custody and divorce grievance is the primary MGTOW entry narrative; MRA and MGTOW communities share members and content
+---
+from: mra
+to: mgtow
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---

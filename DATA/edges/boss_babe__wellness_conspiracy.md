@@ -1,6 +1,12 @@
-## boss_babe__wellness_conspiracy
-
-- **From:** boss_babe
-- **To:** wellness_conspiracy
-- **Strength:** high
-- **Mechanism:** MLM product lines are predominantly wellness products; natural health ideology is baked into the recruitment pitch; "clean living" bridges to medical misinformation
+---
+from: boss_babe
+to: wellness_conspiracy
+type: progression
+strength: high
+confidence: intuited
+valid_from: 2026-06
+last_confirmed: 2026-06
+sources: []
+mechanism: ""
+bidirectional: false
+---
