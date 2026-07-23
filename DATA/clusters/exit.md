@@ -1,6 +1,6 @@
 ---
 name: Exit & Recovery
-order: 4
+order: 5
 tagline: >-
   Off-ramps: where people leave a pipeline.
 color: "#4a7a52"

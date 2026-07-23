@@ -1,6 +1,6 @@
 ---
 from: self_improver
-to: grindset_bro
+to: grindset_disciple
 type: progression
 strength: medium
 confidence: intuited

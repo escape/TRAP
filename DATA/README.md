@@ -1,7 +1,8 @@
-# `DATA`
+# `DATA/` — the source of truth (schema v2)
 
-This folder is the graph. [`../build.mjs`](../build.mjs) compiles it into `graph.json`
-(the viewer's data) and `analysis.json` (computed graph metrics).
+This folder **is** the graph. [`../build.mjs`](../build.mjs) compiles it into `graph.json`
+(the viewer's data) **and** `analysis.json` (computed graph metrics). Edit the source here,
+run the build, commit all three. Never hand-edit the outputs — they are build artifacts.
 
 ```
 DATA/
@@ -11,14 +12,14 @@ DATA/
   nodes/<id>.md             one file per identity (and per exit anchor)
   edges/<from>__<to>.md     one file per relation
   meta.yml                  informational header
-build.mjs                   DATA/ → graph.json + analysis.json (validates and emits)
+build.mjs                   DATA/ → graph.json + analysis.json (validates, then emits)
 ```
 
-## Files structure
+## Two parts to every file
 
 - **YAML frontmatter** — the machine payload the graph reads (the "teaser").
-- **Markdown body** — long-form documentation, analysis, full citations. Ignored by
-  the build.
+- **Markdown body** — long-form documentation, analysis, and full citations. Ignored by
+  the build. Write as much as you want; the graph never gets heavier.
 
 A file's **id is its filename**. Slugs must match across files; `build.mjs` fails on any
 broken reference and refuses to emit.
@@ -32,9 +33,9 @@ Plus `exit_state` for loose off-ramp anchors (not an identity).
 **`volatility: static | liquid`** — and it governs where tactics attach. *Static* identities
 (masses frozen in place) carry manipulation intrinsically → put tactics on the **node**.
 *Liquid* identities (driven by a leader / trend) are shaped in the move → put tactics on the
-**edge**. Both are allowed; volatility tells us which dominates.
+**edge**. Both are allowed; volatility tells you which dominates.
 
-**Harm is three axes:** `harm_to_self` (0–5), `harm_to_others` (0–5),
+**Harm is three axes, not one number:** `harm_to_self` (0–5), `harm_to_others` (0–5),
 `reversibility` (1–5, how escapable). The viewer's node size uses a derived
 `risk_level = harm_to_self + harm_to_others`.
 
@@ -42,6 +43,7 @@ Plus `exit_state` for loose off-ramp anchors (not an identity).
 - `type` — `progression · recruitment · gateway · rebrand · audience_overlap · ideological_kinship · amplify · exit`
 - `confidence` — epistemic status, **required**: `documented` (study) → `reported`
   (journalism) → `observed` (your digital observation) → `intuited` (personal/experiential).
+  Intuition is welcome — it just has to be *labelled* as such, never dressed as a study.
 - `sources[]` — `{ref, kind}` attached to the claim itself (`kind`: study · journalism · observation · personal).
 - `strength` (pull) `high|medium|low`; `prevalence` (base rate) `common|occasional|rare`.
 
